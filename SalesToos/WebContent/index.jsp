@@ -8,6 +8,10 @@
 </head>
 <body background="light gray">
 <center><h1>Struts Project</h1></center>
-<a href="http://localhost:8086/SalesToos/abc.do">Struts Action Class</a><br/>
+<a href="http://localhost:8086/SalesToos/action.do">Struts Action Class</a><br/>
+<a href="http://localhost:8086/SalesToos/dispatchaction.do?parameter=add">Dispatch Action Class with ADD</a><br/>
+<a href="http://localhost:8086/SalesToos/dispatchaction.do?parameter=sub">Dispatch Action Class with SUB</a><br/>
+<a href="http://localhost:8086/SalesToos/forwardaction.do">Forward Action Class</a><br/>
+
 </body>
 </html>

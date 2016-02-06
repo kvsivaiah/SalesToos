@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.3">
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.3">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/antlr-2.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/bsf-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/commons-beanutils-1.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/commons-chain-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/commons-digester-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/commons-fileupload-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/commons-io-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/commons-logging-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/commons-validator-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/jstl-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/oro-2.0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/standard-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/struts-core-1.3.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/struts-el-1.3.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/struts-extras-1.3.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/struts-faces-1.3.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/struts-mailreader-dao-1.3.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/struts-scripting-1.3.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/struts-taglib-1.3.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/strutsjars/struts-tiles-1.3.10.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
