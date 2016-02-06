@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struts-config>
+
+
+<form-beans>
+
+</form-beans>
+
+<global-exceptions>
+	    <exception
+	      key="system.error"
+	      type="java.lang.NullPointerException"
+	      path="/WEB-INF/jsp/global.jsp" />
+	</global-exceptions>
+
+<action-mappings>
+<action path="/abc" type="com.test.StrutsActionClass">
+<forward name="actionclass" path="/WEB-INF/jsp/action.jsp"></forward>
+</action>
+</action-mappings>
+</struts-config>
